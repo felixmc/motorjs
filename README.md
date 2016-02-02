@@ -1,2 +1,2 @@
 # motorjs
-a convention-over-configuration nodejs application framework experiment
+experimental convention-over-configuration nodejs application framework
